@@ -1,0 +1,15 @@
+
+
+welcome to python class
+
+
+describing variables
+using functions
+while and for loops
+if conditions 
+
+
+Using R 
+
+
+Beginners with Sql
