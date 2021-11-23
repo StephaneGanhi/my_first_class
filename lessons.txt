@@ -10,9 +10,3 @@ if conditions
 
 
 Using R 
-
-
-Beginners with Sql
-
-applied mathematics 
-statistics and machine learning
