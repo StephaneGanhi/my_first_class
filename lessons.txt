@@ -10,3 +10,4 @@ if conditions
 
 
 Using R 
+machine learning and statistics
