@@ -11,3 +11,5 @@ if conditions
 
 Using R 
 machine learning and statistics
+intermediaire python 
+intermediaire Sql
